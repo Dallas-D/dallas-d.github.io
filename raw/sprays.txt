@@ -1,3 +1,10 @@
+$name : Pick My Spray!
+$author : 01100100dallas
+$description : Pick a random title for the spray I should use in gmod.
+$amount: 1
+$button: Give me another!
+
+$title
 animeSimp
 ass
 cage
